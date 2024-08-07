@@ -1,0 +1,632 @@
+[
+  {
+    "street": "Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90026",
+    "coordinates": { "latitude": 34.083139, "longitude": -118.260928 }
+  },
+  {
+    "street": "Hollywood Blvd",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90028",
+    "coordinates": { "latitude": 34.101558, "longitude": -118.326584 }
+  },
+  {
+    "street": "Wilshire Blvd",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90036",
+    "coordinates": { "latitude": 34.062334, "longitude": -118.351251 }
+  },
+  {
+    "street": "Melrose Ave",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90046",
+    "coordinates": { "latitude": 34.083917, "longitude": -118.333676 }
+  },
+  {
+    "street": "Santa Monica Blvd",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90025",
+    "coordinates": { "latitude": 34.044056, "longitude": -118.451353 }
+  },
+  {
+    "street": "Figueroa St",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90015",
+    "coordinates": { "latitude": 34.045727, "longitude": -118.266876 }
+  },
+  {
+    "street": "Grand Ave",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90012",
+    "coordinates": { "latitude": 34.056015, "longitude": -118.246769 }
+  },
+  {
+    "street": "Main St",
+    "city": "Santa Monica",
+    "state": "California",
+    "zipCode": "90405",
+    "coordinates": { "latitude": 34.006711, "longitude": -118.489926 }
+  },
+  {
+    "street": "Ocean Ave",
+    "city": "Santa Monica",
+    "state": "California",
+    "zipCode": "90401",
+    "coordinates": { "latitude": 34.019536, "longitude": -118.496405 }
+  },
+  {
+    "street": "Beverly Blvd",
+    "city": "Beverly Hills",
+    "state": "California",
+    "zipCode": "90210",
+    "coordinates": { "latitude": 34.072974, "longitude": -118.400365 }
+  },
+  {
+    "street": "Rodeo Dr",
+    "city": "Beverly Hills",
+    "state": "California",
+    "zipCode": "90210",
+    "coordinates": { "latitude": 34.06744, "longitude": -118.403847 }
+  },
+  {
+    "street": "Wilshire Blvd",
+    "city": "Beverly Hills",
+    "state": "California",
+    "zipCode": "90212",
+    "coordinates": { "latitude": 34.065217, "longitude": -118.399337 }
+  },
+  {
+    "street": "San Vicente Blvd",
+    "city": "Brentwood",
+    "state": "California",
+    "zipCode": "90049",
+    "coordinates": { "latitude": 34.056156, "longitude": -118.475218 }
+  },
+  {
+    "street": "Sepulveda Blvd",
+    "city": "Westwood",
+    "state": "California",
+    "zipCode": "90024",
+    "coordinates": { "latitude": 34.06062, "longitude": -118.443054 }
+  },
+  {
+    "street": "Ventura Blvd",
+    "city": "Studio City",
+    "state": "California",
+    "zipCode": "91604",
+    "coordinates": { "latitude": 34.148671, "longitude": -118.396155 }
+  },
+  {
+    "street": "Laurel Canyon Blvd",
+    "city": "Studio City",
+    "state": "California",
+    "zipCode": "91607",
+    "coordinates": { "latitude": 34.136875, "longitude": -118.396951 }
+  },
+  {
+    "street": "Magnolia Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91505",
+    "coordinates": { "latitude": 34.17056, "longitude": -118.347229 }
+  },
+  {
+    "street": "Victory Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91506",
+    "coordinates": { "latitude": 34.181696, "longitude": -118.328887 }
+  },
+  {
+    "street": "Glenoaks Blvd",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91202",
+    "coordinates": { "latitude": 34.166506, "longitude": -118.276487 }
+  },
+  {
+    "street": "Colorado St",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91205",
+    "coordinates": { "latitude": 34.140797, "longitude": -118.242658 }
+  },
+  {
+    "street": "Central Ave",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91203",
+    "coordinates": { "latitude": 34.145672, "longitude": -118.255192 }
+  },
+  {
+    "street": "Foothill Blvd",
+    "city": "La Crescenta",
+    "state": "California",
+    "zipCode": "91214",
+    "coordinates": { "latitude": 34.226082, "longitude": -118.240483 }
+  },
+  {
+    "street": "Ocean View Blvd",
+    "city": "Montrose",
+    "state": "California",
+    "zipCode": "91020",
+    "coordinates": { "latitude": 34.206495, "longitude": -118.229426 }
+  },
+  {
+    "street": "Verdugo Rd",
+    "city": "Eagle Rock",
+    "state": "California",
+    "zipCode": "90041",
+    "coordinates": { "latitude": 34.137302, "longitude": -118.212477 }
+  },
+  {
+    "street": "Colorado Blvd",
+    "city": "Eagle Rock",
+    "state": "California",
+    "zipCode": "90041",
+    "coordinates": { "latitude": 34.139774, "longitude": -118.216835 }
+  },
+  {
+    "street": "Huntington Dr",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.107232, "longitude": -118.158121 }
+  },
+  {
+    "street": "Fair Oaks Ave",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.116798, "longitude": -118.150488 }
+  },
+  {
+    "street": "Monterey Rd",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.114186, "longitude": -118.158455 }
+  },
+  {
+    "street": "Rosemead Blvd",
+    "city": "San Gabriel",
+    "state": "California",
+    "zipCode": "91776",
+    "coordinates": { "latitude": 34.092487, "longitude": -118.080841 }
+  },
+  {
+    "street": "Las Tunas Dr",
+    "city": "San Gabriel",
+    "state": "California",
+    "zipCode": "91776",
+    "coordinates": { "latitude": 34.104704, "longitude": -118.086677 }
+  },
+  {
+    "street": "Garfield Ave",
+    "city": "Monterey Park",
+    "state": "California",
+    "zipCode": "91754",
+    "coordinates": { "latitude": 34.061214, "longitude": -118.126313 }
+  },
+  {
+    "street": "Atlantic Blvd",
+    "city": "Monterey Park",
+    "state": "California",
+    "zipCode": "91755",
+    "coordinates": { "latitude": 34.040071, "longitude": -118.135156 }
+  },
+  {
+    "street": "Valley Blvd",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91801",
+    "coordinates": { "latitude": 34.081004, "longitude": -118.144107 }
+  },
+  {
+    "street": "Main St",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91801",
+    "coordinates": { "latitude": 34.095287, "longitude": -118.127167 }
+  },
+  {
+    "street": "Mission St",
+    "city": "San Marino",
+    "state": "California",
+    "zipCode": "91108",
+    "coordinates": { "latitude": 34.120028, "longitude": -118.115862 }
+  },
+  {
+    "street": "Huntington Dr",
+    "city": "San Marino",
+    "state": "California",
+    "zipCode": "91108",
+    "coordinates": { "latitude": 34.118011, "longitude": -118.107528 }
+  },
+  {
+    "street": "Lake Ave",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91101",
+    "coordinates": { "latitude": 34.147909, "longitude": -118.132026 }
+  },
+  {
+    "street": "Colorado Blvd",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91105",
+    "coordinates": { "latitude": 34.144299, "longitude": -118.161251 }
+  },
+  {
+    "street": "Fair Oaks Ave",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91103",
+    "coordinates": { "latitude": 34.153302, "longitude": -118.150024 }
+  },
+  {
+    "street": "Green St",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91101",
+    "coordinates": { "latitude": 34.142693, "longitude": -118.139479 }
+  },
+  {
+    "street": "Altadena Dr",
+    "city": "Altadena",
+    "state": "California",
+    "zipCode": "91001",
+    "coordinates": { "latitude": 34.186627, "longitude": -118.131756 }
+  },
+  {
+    "street": "Lake Ave",
+    "city": "Altadena",
+    "state": "California",
+    "zipCode": "91001",
+    "coordinates": { "latitude": 34.180796, "longitude": -118.131416 }
+  },
+  {
+    "street": "New York Dr",
+    "city": "Altadena",
+    "state": "California",
+    "zipCode": "91001",
+    "coordinates": { "latitude": 34.180157, "longitude": -118.126356 }
+  },
+  {
+    "street": "Lemon Ave",
+    "city": "Arcadia",
+    "state": "California",
+    "zipCode": "91006",
+    "coordinates": { "latitude": 34.139173, "longitude": -118.028983 }
+  },
+  {
+    "street": "Santa Anita Ave",
+    "city": "Arcadia",
+    "state": "California",
+    "zipCode": "91007",
+    "coordinates": { "latitude": 34.130481, "longitude": -118.032566 }
+  },
+  {
+    "street": "Duarte Rd",
+    "city": "Arcadia",
+    "state": "California",
+    "zipCode": "91007",
+    "coordinates": { "latitude": 34.129984, "longitude": -118.050564 }
+  },
+  {
+    "street": "Rosemead Blvd",
+    "city": "Temple City",
+    "state": "California",
+    "zipCode": "91780",
+    "coordinates": { "latitude": 34.096032, "longitude": -118.072775 }
+  },
+  {
+    "street": "Las Tunas Dr",
+    "city": "Temple City",
+    "state": "California",
+    "zipCode": "91780",
+    "coordinates": { "latitude": 34.106059, "longitude": -118.064054 }
+  },
+  {
+    "street": "Baldwin Ave",
+    "city": "El Monte",
+    "state": "California",
+    "zipCode": "91731",
+    "coordinates": { "latitude": 34.070689, "longitude": -118.047128 }
+  },
+  {
+    "street": "Peck Rd",
+    "city": "El Monte",
+    "state": "California",
+    "zipCode": "91732",
+    "coordinates": { "latitude": 34.066201, "longitude": -118.020369 }
+  },
+  {
+    "street": "Garvey Ave",
+    "city": "El Monte",
+    "state": "California",
+    "zipCode": "91733",
+    "coordinates": { "latitude": 34.070178, "longitude": -118.038625 }
+  },
+  {
+    "street": "Valley Blvd",
+    "city": "El Monte",
+    "state": "California",
+    "zipCode": "91731",
+    "coordinates": { "latitude": 34.07395, "longitude": -118.048635 }
+  },
+  {
+    "street": "Ramona Blvd",
+    "city": "El Monte",
+    "state": "California",
+    "zipCode": "91732",
+    "coordinates": { "latitude": 34.070744, "longitude": -118.035798 }
+  },
+  {
+    "street": "Mission Dr",
+    "city": "San Gabriel",
+    "state": "California",
+    "zipCode": "91776",
+    "coordinates": { "latitude": 34.100607, "longitude": -118.110893 }
+  },
+  {
+    "street": "New Ave",
+    "city": "San Gabriel",
+    "state": "California",
+    "zipCode": "91776",
+    "coordinates": { "latitude": 34.092003, "longitude": -118.101376 }
+  },
+  {
+    "street": "Garfield Ave",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91801",
+    "coordinates": { "latitude": 34.08832, "longitude": -118.128642 }
+  },
+  {
+    "street": "Main St",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91801",
+    "coordinates": { "latitude": 34.095282, "longitude": -118.126926 }
+  },
+  {
+    "street": "Valley Blvd",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91803",
+    "coordinates": { "latitude": 34.080462, "longitude": -118.141297 }
+  },
+  {
+    "street": "Broadway",
+    "city": "Alhambra",
+    "state": "California",
+    "zipCode": "91801",
+    "coordinates": { "latitude": 34.091688, "longitude": -118.128798 }
+  },
+  {
+    "street": "Fair Oaks Ave",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.112728, "longitude": -118.150234 }
+  },
+  {
+    "street": "Huntington Dr",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.102953, "longitude": -118.158776 }
+  },
+  {
+    "street": "Mission St",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.115428, "longitude": -118.157523 }
+  },
+  {
+    "street": "Fremont Ave",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.116238, "longitude": -118.151689 }
+  },
+  {
+    "street": "Marengo Ave",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.117504, "longitude": -118.148871 }
+  },
+  {
+    "street": "Monterey Rd",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.111884, "longitude": -118.161283 }
+  },
+  {
+    "street": "Pasadena Ave",
+    "city": "South Pasadena",
+    "state": "California",
+    "zipCode": "91030",
+    "coordinates": { "latitude": 34.110369, "longitude": -118.152072 }
+  },
+  {
+    "street": "Euclid Ave",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91101",
+    "coordinates": { "latitude": 34.139286, "longitude": -118.13916 }
+  },
+  {
+    "street": "Los Robles Ave",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91101",
+    "coordinates": { "latitude": 34.14412, "longitude": -118.140771 }
+  },
+  {
+    "street": "Hill Ave",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91104",
+    "coordinates": { "latitude": 34.157183, "longitude": -118.122547 }
+  },
+  {
+    "street": "Orange Grove Blvd",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91103",
+    "coordinates": { "latitude": 34.156543, "longitude": -118.155058 }
+  },
+  {
+    "street": "Mountain St",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91104",
+    "coordinates": { "latitude": 34.160216, "longitude": -118.12938 }
+  },
+  {
+    "street": "Sierra Madre Blvd",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91107",
+    "coordinates": { "latitude": 34.153563, "longitude": -118.096924 }
+  },
+  {
+    "street": "Washington Blvd",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91104",
+    "coordinates": { "latitude": 34.169083, "longitude": -118.129755 }
+  },
+  {
+    "street": "Altadena Dr",
+    "city": "Pasadena",
+    "state": "California",
+    "zipCode": "91107",
+    "coordinates": { "latitude": 34.157056, "longitude": -118.096205 }
+  },
+  {
+    "street": "Fair Oaks Ave",
+    "city": "Altadena",
+    "state": "California",
+    "zipCode": "91001",
+    "coordinates": { "latitude": 34.191238, "longitude": -118.150591 }
+  },
+  {
+    "street": "Lincoln Ave",
+    "city": "Altadena",
+    "state": "California",
+    "zipCode": "91001",
+    "coordinates": { "latitude": 34.184946, "longitude": -118.148254 }
+  },
+  {
+    "street": "Alameda St",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91506",
+    "coordinates": { "latitude": 34.169525, "longitude": -118.326906 }
+  },
+  {
+    "street": "Glenoaks Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91504",
+    "coordinates": { "latitude": 34.200671, "longitude": -118.316942 }
+  },
+  {
+    "street": "San Fernando Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91502",
+    "coordinates": { "latitude": 34.183738, "longitude": -118.311947 }
+  },
+  {
+    "street": "Olive Ave",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91501",
+    "coordinates": { "latitude": 34.181732, "longitude": -118.305311 }
+  },
+  {
+    "street": "Verdugo Ave",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91502",
+    "coordinates": { "latitude": 34.181048, "longitude": -118.302268 }
+  },
+  {
+    "street": "Magnolia Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91501",
+    "coordinates": { "latitude": 34.170609, "longitude": -118.309648 }
+  },
+  {
+    "street": "Victory Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91506",
+    "coordinates": { "latitude": 34.173237, "longitude": -118.335414 }
+  },
+  {
+    "street": "Riverside Dr",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91505",
+    "coordinates": { "latitude": 34.154216, "longitude": -118.350414 }
+  },
+  {
+    "street": "Alameda Ave",
+    "city": "Burbank",
+    "state": "California",
+    "zipCode": "91506",
+    "coordinates": { "latitude": 34.169169, "longitude": -118.317054 }
+  },
+  {
+    "street": "Glenoaks Blvd",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91202",
+    "coordinates": { "latitude": 34.161789, "longitude": -118.256361 }
+  },
+  {
+    "street": "Verdugo Rd",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91206",
+    "coordinates": { "latitude": 34.146723, "longitude": -118.240012 }
+  },
+  {
+    "street": "Brand Blvd",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91204",
+    "coordinates": { "latitude": 34.145816, "longitude": -118.255179 }
+  },
+  {
+    "street": "Colorado St",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91205",
+    "coordinates": { "latitude": 34.138307, "longitude": -118.246989 }
+  },
+  {
+    "street": "Broadway",
+    "city": "Glendale",
+    "state": "California",
+    "zipCode": "91205",
+    "coordinates": { "latitude": 34.145078, "longitude": -118.239298 }
+  }
+]

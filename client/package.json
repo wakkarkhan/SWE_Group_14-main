@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port=3001",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@volar-plugins/vetur": "latest",
+    "node-sass": "^8.0.0",
+    "nuxt": "^3.7.4",
+    "sass": "^1.57.1",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vuetify": "^3.6.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/vue-fontawesome": "^3.0.2",
+    "@mdi/font": "^7.4.47",
+    "@nuxtjs/leaflet": "^1.1.0",
+    "@pinia/nuxt": "^0.4.11",
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "pinia": "^2.1.6",
+    "sass-loader": "^13.2.0",
+    "vee-validate": "^4.13.2",
+    "yup": "^1.4.0"
+  }
+}
